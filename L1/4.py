@@ -1,1 +1,1 @@
-
+print(“Python is Easy")
