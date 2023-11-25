@@ -1,0 +1,6 @@
+c1 = complex(input(“c1: ))
+c2 = complex(input("c2: "))
+print(f"a1 + b2 = {c1+c2}")
+print(f"a1 - b2 = {c1 - c2}")
+print(f"a1 * b2 = {cl * c2}")
+print(f"a1 / b2 = {c1/c2}")
